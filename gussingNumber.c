@@ -1,7 +1,3 @@
-# Projects
-//contribute to project
-
-
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
